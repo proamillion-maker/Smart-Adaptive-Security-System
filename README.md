@@ -3,7 +3,7 @@
 An IoT-based smart weighbridge station integrated with real-time automated fire safety defense and remote cloud management via the ThingsBoard platform.
 
 ## 👥 Authors & Contributions
-* **[Member 1 Name]** - VNUHCM - University of Science (Role: Master Node Development, System Architecture)
+* **[Minh Trieu]** - VNUHCM - University of Science (Role: Master Node Development, System Architecture)
 * **proamillion** - VNUHCM - University of Science (Role: Hardware Integration, ESP32 Firmware Development, ThingsBoard Cloud & RPC Configuration)
 
 ## 📺 Project Demonstration Video
